@@ -33,7 +33,7 @@ Here is a list of topics I have learned along with the timestamps from the video
 |✅ Done | 00:06:21    | Membuat Project              |
 |✅ Done | 00:11:01    | Setup TypeScript Project     |
 |✅ Done | 00:18:44    | Say Hello Function           |
-|        | 00:23:46    | Kompilasi TypeScript         |
+|✅ Done | 00:23:46    | Kompilasi TypeScript         |
 |        | 00:31:09    | Tipe Data Primitif           |
 |        | 00:36:40    | Babel TypeScript             |
 |        | 00:41:33    | Tipe Data Array              |
