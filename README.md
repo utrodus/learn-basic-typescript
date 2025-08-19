@@ -24,15 +24,15 @@ This is my personal note and progress tracker for learning basic TypeScript, fol
 
 ## ⏱️ Daftar Materi & Progress Belajar
 
-Berikut adalah daftar materi yang saya pelajari beserta timestamp dari video. Saya centang (✅) jika sudah dipraktikkan langsung di project ini.
+Here is a list of topics I have learned along with the timestamps from the video. I check (✅) if I have practiced it directly in this project.
 
 | Status | Timestamp   | Materi                        |
 |--------|-------------|------------------------------|
-|        | 00:00:00    | Pendahuluan                  |
-|        | 00:01:49    | Pengenalan TypeScript        |
-|        | 00:06:21    | Membuat Project              |
-|        | 00:11:01    | Setup TypeScript Project     |
-|        | 00:18:44    | Say Hello Function           |
+|✅ Done | 00:00:00    | Pendahuluan                  |
+|✅ Done | 00:01:49    | Pengenalan TypeScript        |
+|✅ Done | 00:06:21    | Membuat Project              |
+|✅ Done | 00:11:01    | Setup TypeScript Project     |
+|✅ Done | 00:18:44    | Say Hello Function           |
 |        | 00:23:46    | Kompilasi TypeScript         |
 |        | 00:31:09    | Tipe Data Primitif           |
 |        | 00:36:40    | Babel TypeScript             |
